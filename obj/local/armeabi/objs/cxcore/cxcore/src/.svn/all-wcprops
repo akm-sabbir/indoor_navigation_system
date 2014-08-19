@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src
+END
+cxdrawing.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxdrawing.o.d
+END
+cxlogic.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxlogic.o.d
+END
+cxcopy.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxcopy.o.d
+END
+cxpersistence.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxpersistence.o.d
+END
+cxmeansdv.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxmeansdv.o.d
+END
+cxdxt.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxdxt.o.d
+END
+cxsvd.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxsvd.o.d
+END
+cxnorm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxnorm.o.d
+END
+cxcmp.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxcmp.o.d
+END
+cxmathfuncs.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxmathfuncs.o.d
+END
+cxerror.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxerror.o.d
+END
+cxarithm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxarithm.o.d
+END
+cxswitcher.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxswitcher.o.d
+END
+cxlut.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxlut.o.d
+END
+cxmatrix.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxmatrix.o.d
+END
+cxminmaxloc.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxminmaxloc.o.d
+END
+cxmatmul.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxmatmul.o.d
+END
+cxtables.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxtables.o.d
+END
+cxmean.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxmean.o.d
+END
+cxrand.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxrand.o.d
+END
+cxutils.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxutils.o.d
+END
+cxprecomp.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxprecomp.o.d
+END
+cxconvert.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxconvert.o.d
+END
+cxdatastructs.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxdatastructs.o.d
+END
+cxalloc.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxalloc.o.d
+END
+cxsumpixels.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxsumpixels.o.d
+END
+cxarray.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxarray.o.d
+END
+cxouttext.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxouttext.o.d
+END
+cxjacobieigens.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cxjacobieigens.o.d
+END
+cximage.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/NavProject0.2/!svn/ver/1/obj/local/armeabi/objs/cxcore/cxcore/src/cximage.o.d
+END

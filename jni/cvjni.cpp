@@ -92,7 +92,6 @@ JNIEXPORT jboolean JNICALL Java_com_samsung_indoornavigation_opencv_OpenCV_doPro
 
 		vector<CvPoint*> lineContainer=cf.getVeticalLineHolder();
 		vector<CvPoint> cornerPoints=cf.getVoxelGrid()->listofPoints;
-
 		vector < vector < pair<CvPoint, int > > > container = roiExtractor.imageROIExtractor(lineContainer,cornerPoints,( IplImage* ) img,(Mat *)pMatRgb);
 
 		return 1;

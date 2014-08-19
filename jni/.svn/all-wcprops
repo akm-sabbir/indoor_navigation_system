@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/NavProject0.2/!svn/ver/1/jni
+END
+Voxel.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/NavProject0.2/!svn/ver/1/jni/Voxel.h
+END
+jni_part.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/NavProject0.2/!svn/ver/1/jni/jni_part.cpp
+END
+cvjni.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/NavProject0.2/!svn/ver/1/jni/cvjni.cpp
+END
+ConvexHull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/NavProject0.2/!svn/ver/1/jni/ConvexHull.cpp
+END
+ROIExtractor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/NavProject0.2/!svn/ver/1/jni/ROIExtractor.cpp
+END
+ConvexHull.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/NavProject0.2/!svn/ver/1/jni/ConvexHull.h
+END
+CornerFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/NavProject0.2/!svn/ver/1/jni/CornerFinder.cpp
+END
+RansacProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/NavProject0.2/!svn/ver/1/jni/RansacProcessor.cpp
+END
+ROIExtractor.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/NavProject0.2/!svn/ver/1/jni/ROIExtractor.h
+END
+CornerFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/NavProject0.2/!svn/ver/1/jni/CornerFinder.h
+END
+RansacProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/NavProject0.2/!svn/ver/1/jni/RansacProcessor.h
+END
+Morphological.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/NavProject0.2/!svn/ver/1/jni/Morphological.cpp
+END
+EdgeFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/NavProject0.2/!svn/ver/1/jni/EdgeFinder.cpp
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/NavProject0.2/!svn/ver/1/jni/Log.cpp
+END
+Voxel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/NavProject0.2/!svn/ver/1/jni/Voxel.cpp
+END
+Morphological.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/NavProject0.2/!svn/ver/1/jni/Morphological.h
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/NavProject0.2/!svn/ver/1/jni/Application.mk
+END
+EdgeFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/NavProject0.2/!svn/ver/1/jni/EdgeFinder.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/NavProject0.2/!svn/ver/2/jni/Android.mk
+END
+RansacHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/NavProject0.2/!svn/ver/1/jni/RansacHeader.h
+END
+Log.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/NavProject0.2/!svn/ver/1/jni/Log.hpp
+END

@@ -17,7 +17,7 @@ import android.widget.TextView;
 import com.samsung.indoornavigation.R;
 
 public class ActionListFragment extends ListFragment{
-	List<String> actions=new ArrayList<String>();
+	List<String> actions = new ArrayList<String>();
 	View mContentView=null;
 	@Override
 	public void onActivityCreated(Bundle savedInstanceState) {

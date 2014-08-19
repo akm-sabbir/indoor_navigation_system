@@ -1,0 +1,73 @@
+obj/local/armeabi-v7a/objs/main_object/RansacProcessor.o: \
+ jni/RansacProcessor.cpp jni/RansacProcessor.h \
+ D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/algorithm \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/assert.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/math.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/limits.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/limits.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/limits.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/internal_types.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/limits.h \
+ D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/syslimits.h \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp \
+ D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/cmath \
+ D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/complex \
+ D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/map \
+ D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/vector \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp \
+ D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/limits \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui.hpp \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui_c.h \
+ D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h \
+ D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/iostream
+
+jni/RansacProcessor.h:
+
+D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/algorithm:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/assert.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/math.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/limits.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/limits.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/limits.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/internal_types.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/limits.h:
+
+D:/android-tools/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/syslimits.h:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp:
+
+D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/cmath:
+
+D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/complex:
+
+D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/map:
+
+D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/vector:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp:
+
+D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/limits:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui.hpp:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui_c.h:
+
+D:/others/final-blind/OpenCV-2.4.2-android-sdk/OpenCV-2.4.2-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h:
+
+D:/android-tools/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include/iostream:

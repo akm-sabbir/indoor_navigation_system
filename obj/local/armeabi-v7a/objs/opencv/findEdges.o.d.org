@@ -1,0 +1,188 @@
+obj/local/armeabi-v7a/objs/opencv/findEdges.o: jni/findEdges.cpp \
+ jni/RansacHeader.h jni/cxcore/include/cv.h jni/cxcore/include/cxcore.h \
+ jni/cxcore/include/cxtypes.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/assert.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdlib.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/string.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/malloc.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/alloca.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/strings.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdint.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/_types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/_types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/posix_types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/stddef.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/compiler.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/posix_types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/kernel.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/memory.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/math.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/limits.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/limits.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/limits.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/internal_types.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/limits.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/syslimits.h \
+ jni/cxcore/include/cxerror.h jni/cxcore/include/cvver.h \
+ jni/cxcore/include/cxcore.hpp jni/cxcore/include/cxmisc.h \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/complex \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
+ jni/cxcore/include/cxoperations.hpp jni/cxcore/include/cxmat.hpp \
+ jni/cxcore/include/cxflann.h jni/cxcore/include/cvtypes.h \
+ jni/cxcore/include/cv.hpp jni/cxcore/include/cvcompat.h \
+ jni/randomGenerator.h \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream \
+ jni/imageMorphology.h jni/cxcore/include/highgui.h \
+ jni/cxcore/include/highgui.hpp jni/constants.h \
+ jni/com_example_opencvtest_OpenCV.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/jni.h \
+ jni/segment.h jni/cxcore/include/ml.h jni/cxcore/include/cvinternal.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/mman.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/mman.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm-generic/mman.h \
+ C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/page.h \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/limits \
+ jni/voxel.h \
+ C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/list \
+ jni/filters.h
+
+jni/RansacHeader.h:
+
+jni/cxcore/include/cv.h:
+
+jni/cxcore/include/cxcore.h:
+
+jni/cxcore/include/cxtypes.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/assert.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdlib.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/string.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/malloc.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/alloca.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/strings.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdint.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/_types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/_types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/posix_types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/stddef.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/compiler.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/posix_types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/kernel.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/memory.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/math.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/limits.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/limits.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/limits.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/internal_types.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/limits.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/syslimits.h:
+
+jni/cxcore/include/cxerror.h:
+
+jni/cxcore/include/cvver.h:
+
+jni/cxcore/include/cxcore.hpp:
+
+jni/cxcore/include/cxmisc.h:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/complex:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/map:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
+
+jni/cxcore/include/cxoperations.hpp:
+
+jni/cxcore/include/cxmat.hpp:
+
+jni/cxcore/include/cxflann.h:
+
+jni/cxcore/include/cvtypes.h:
+
+jni/cxcore/include/cv.hpp:
+
+jni/cxcore/include/cvcompat.h:
+
+jni/randomGenerator.h:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream:
+
+jni/imageMorphology.h:
+
+jni/cxcore/include/highgui.h:
+
+jni/cxcore/include/highgui.hpp:
+
+jni/constants.h:
+
+jni/com_example_opencvtest_OpenCV.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/jni.h:
+
+jni/segment.h:
+
+jni/cxcore/include/ml.h:
+
+jni/cxcore/include/cvinternal.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/mman.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/mman.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm-generic/mman.h:
+
+C:/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/page.h:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/limits:
+
+jni/voxel.h:
+
+C:/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/list:
+
+jni/filters.h:
